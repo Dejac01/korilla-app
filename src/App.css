@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.main{
+  padding-top: 100px;
+}
+
+.container{
+border: 2px solid  rgb(238, 101, 101); 
+width: 80vw;
+height: 80vh;
+margin: auto;
+display: flex;
+}
+
+.order1, .order2, .order3{
+  border: 2px solid rgb(238, 101, 101); 
+  width: 50%;
+  font-weight: bold;
+  text-align: center;
+}
